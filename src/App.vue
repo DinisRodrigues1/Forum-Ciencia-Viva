@@ -1,7 +1,7 @@
 <template>
   <router-view>
   <div id="app">
-    TESTE
+    <LandingPage/>
 
   </div>
   </router-view>
