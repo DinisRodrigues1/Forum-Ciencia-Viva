@@ -51,7 +51,7 @@ const router = new VueRouter({
 /* eslint-disable no-new */
 new Vue({
     router,
-    template: `
+    template: 
     <div id="app">
     <div>
   
@@ -73,6 +73,6 @@ new Vue({
   </div>
   <router-view></router-view>
   </div>
-  `
+  
 }).$mount('#app');
 
